@@ -1,2 +1,2 @@
 # Cryptography
-Three encryption algorithm: AES, Affine, RAS
+Three encryption algorithm: AES, AffineCipher, RSA
